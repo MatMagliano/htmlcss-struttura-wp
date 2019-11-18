@@ -37,6 +37,7 @@ main::after {
 }
 .float-left{
   float: left;
+  padding: 1%;
 }
 .col-left {
   width: 20%;
@@ -52,7 +53,7 @@ main::after {
 .col-last {
   width: 20%;
   /* height: 100px; */
-  background-color: grey;
+  background-color: lightblue;
 }
 .widget {
   width: 100%;
